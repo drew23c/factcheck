@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './header.css';
-import factcheck from '../Images/factCheckImage.jpg'
+import factcheck from '../images/factCheckImage.jpg'
 
 export default class Header extends Component{
     render(){
