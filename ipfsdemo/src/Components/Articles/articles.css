@@ -1,0 +1,7 @@
+.facts{
+    display:inline;
+    text-align: center;
+}
+.facts ul li{
+    list-style-type: none;
+}
