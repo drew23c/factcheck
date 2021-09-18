@@ -1,7 +1,8 @@
-.facts{
-    display:inline;
-    text-align: center;
-}
 .facts ul li{
     list-style-type: none;
+    padding:0 1% 1% 1%;
+}
+.facts ul{
+    display:flex;
+    flex-wrap:wrap;
 }
